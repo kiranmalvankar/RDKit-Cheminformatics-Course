@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/rdkit_logo.png" width="180">
+  <img src="images/RDKit_logo.png" width="180">
 </p>
 
 <h1 align="center">RDKit Cheminformatics Course</h1>
