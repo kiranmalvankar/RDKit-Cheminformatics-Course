@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![RDKit](https://img.shields.io/badge/RDKit-Cheminformatics-green.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 <p align="center">
   <img src="./RDKit_logo.jpg" width="180" alt="RDKit Logo">
 </p>
