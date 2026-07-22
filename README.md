@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="images/rdkit_logo.png" width="180">
+</p>
+
+<h1 align="center">RDKit Cheminformatics Course</h1>
+
+<p align="center">
+29 Practical Jupyter Notebooks for Cheminformatics & Drug Discovery
+</p>
+
 # RDKit-Cheminformatics-Course
 
 A comprehensive hands-on RDKit course featuring 29 Jupyter notebooks covering core cheminformatics concepts, molecular analysis, 3D modeling, reaction workflows, and practical applications in drug discovery.
