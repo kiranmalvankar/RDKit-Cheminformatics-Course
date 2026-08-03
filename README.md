@@ -61,6 +61,7 @@ Each notebook includes:
 | 27 | Reaction SMARTS |
 | 28 | Reaction Enumeration |
 | 29 | SDF File Processing |
+| 30 | 30_Isomer_Identification_and_Stereochemistry in RDKit |
 
 # 🎯 Skills Covered
 
